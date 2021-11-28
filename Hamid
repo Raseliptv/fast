@@ -1,18 +1,7 @@
 
 #EXTM3U
 
-#jbd
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="* BDIX19",Sangsad TV
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVDWnNKM2IzMWlkMFIyYnpkbWJ2TjNMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="* BDIX19",BTV WORLD
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejV5WnoxU1pqbG1abTlXTGtKbWQwSjJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="* BDIX19",BTV CTG
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejV5WjBOV0xzRm1idmxHZGg1bWQwSjJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" , ATN Bangla
-http://103.205.133.21/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="* BDIX19",CHANNEL I HD
 PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTG5KM2J0Z1RMcHhXWnU1V1lvTjJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5SazFHTVVCMU1PWlZaWFpVUlVOa1NGcFZUV2QwWTJaV2VOcFhTeDRrZWxCVFZ3OEVWYWxFZVhsbE01WWtZNlpVWmg5V1JrZFdRVTVrTlJwM1pTWlRWRWwwUlBWRVJObEhPNTVFZTRrV1Q1VVZSaUJuVTNnVmVOMVdiMllWTmo5U00wUWpPdDkyWXVRbVl2ZFdZcTV5ZGxsbWQ1dDJjdzFXWjA5eUw2TUhjMFJIYQ==
 
@@ -33,3 +22,6 @@ http://str24.l9574.com/515.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangla News",ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Channel" tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="Bangla News",Bangla Channel
+http://str24.l9574.com/515.stream/index.m3u8
