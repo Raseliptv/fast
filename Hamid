@@ -473,3 +473,198 @@ http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)",Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
+
+
+
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Banglavision
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736",BTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/122.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png",CHANNEL 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
+http://iptv.kitv.live:1935/live/Shari/MTV-P/111.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png",Channel I
+http://iptv.kitv.live:1935/live/Shari/MTV-P/108.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.imgur.com/XA5u4gk.png",DBC News
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.imgur.com/XA5u4gk.png",DBC News (1080p)
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/109.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Duronto_TV_logo.jpg/170px-Duronto_TV_logo.jpg",DURONTO TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Duronto_TV_logo.jpg/170px-Duronto_TV_logo.jpg",Duronto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/169.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor
+http://iptv.kitv.live:1935/live/Shari/MTV-P/105.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://www.pngitem.com/pimgs/m/21-212855_independent-tv-logo-png-transparent-png.png",Independent
+http://iptv.kitv.live:1935/live/Shari/MTV-P/115.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288",JAMUNA TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/116.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga
+http://iptv.kitv.live:1935/live/Shari/MTV-P/104.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",My TV HD
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png",Nagorik TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/107.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA",Nandan Tv
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288",News 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png",NTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/112.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg",Shomoy TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/117.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",38.Doyel TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",43.MAQ TV
+http://str24.l9574.com/517.stream/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",52.Voice TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",6.Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Gaan Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/121.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Discovery Bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/WpMA9kC.png",1.Anando TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",45.Movie Bangla
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",NBC News
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",BD LIVE IPTV
+https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/KXsOj3L.png",BOISHAKHI TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",CHANNEL S (4)
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Channel TT IPTV
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8?Live-TV™
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Channel-S (3)
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",ITV IPTV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?Live-TV™
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg",ITV IPTV [BD]
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",NANDAN IPTV (1)
+http://nandansyst.com/hls/nandan.m3u8?Live-TV™
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/7HplreU.jpg",NANDAN IPTV [BD]
+http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",NAT GEO
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoLZhDYy0d4JYUcXfMQK_LbexJUaIVK1ON3Q&usqp=CAU",Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTV Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Peace TV English
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Peace TV Urdu
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU",RTP TV
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w55167431.m3u8
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Devi Maa
+http://ibadat.out.airtime.pro:8000/ibadat_a
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Ganesha
+http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Gurbani
+http://gurbani.out.airtime.pro:8000/gurbani_a
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Guruvar
+http://iskon2b.out.airtime.pro:8000/iskon2b_a
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Krishna
+http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Shiva
+http://hot.out.airtime.pro:8000/hot_a
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Shri Ram
+http://dard.out.airtime.pro:8000/dard_a
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",ABC Radio(89.2)
+http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Big FM
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Bollywood Punjabi Radio
+http://stream.zeno.fm/1k0y9f0cm0quv
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Colours FM
+http://45.64.135.88:8000/stream1
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",FnF.FM Bangla
+http://eu6.fastcast4u.com:5099/;stream?listening-from-radio-garden=1601015069589
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Harman Radio Australia
+http://harmanradio.net:8000/main_48.mp3
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Jagoo FM
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Jesus Alive Radio
+http://stream.zenolive.com/qyb8s75nsceuv
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Radio ABC
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Radio BollyFm
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Radio Ishara
+http://nickerie.webhop.net:8000/;stream.mp3
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",Radio Sadhin
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",Radio Sai Global Harmony Bhajan
+http://stream.radiosai.net:8000
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",Radio Schizoid - Chillout / Ambient
+http://94.130.113.214:8000/chill
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",Radio Schizoid - Dub Techno
+http://94.130.113.214:8000/dubtechno
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",Radio Schizoid - Progressive Psychedelic Trance
+http://94.130.113.214:8000/prog
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",Radio Today
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)",Radio Today(89.6)
+http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",SaRaHa
+http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",Suno FM 102.
+http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",The Buddhist Online Radio
+http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
+#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",Ujala Radio
+http://stream2.ujala.nl/stream/2/listen.mp3
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIxMWNjZGMtNzVmYi00MmIwLWFlNzQtMDhjMTJiYjQ2NjE1XkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg",5.Weddings.2018.1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/5%20Weddings%20%282018%29/5.Weddings.2018.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjlkZjBjZmUtNjZjNS00ODlkLWIzODYtODY0NmViN2E0MjIxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",Angrezi Medium (2020)
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Angrezi%20Medium%20%282020%29/Angrezi%20Medium%20%282020%29%20Hindi%20PreDVD%20-%20720p%20-%20x264%20-%20AAC%20-%201.2GB.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Arjun_Patiala_poster.jpg/220px-Arjun_Patiala_poster.jpg",Arjun.Patiala.2019.720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Arjun%20Patiala%20%282019%29/Arjun.Patiala.2019.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU4NmY2NDMtODRmMC00NzljLTkwNDMtYThmNTE1OThhZjMwXkEyXkFqcGdeQXVyODk1NjE0OTk@._V1_.jpg",Asur (2020) Bengali Original  1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Asur%20%282020%29/Asur%20%282020%29%20Bengali%20Original%20%201080p%20ZEE5%20WEB-DL.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQzN2UyMzQtNTg1Ni00ZmJkLWE2OWQtZmVlZGJiZGQ5NjVmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",Asuraguru (2020) 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Asuraguru%20%282020%29/Asuraguru%20%282020%29%20720p%20HDrip.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYmYxODEtMzQ0NS00NjM5LTg1NDQtYWVhOTJjOWU0NGY0XkEyXkFqcGdeQXVyODI1Nzg1OTQ@._V1_UY1200_CR101,0,630,1200_AL_.jpg",Ateet (2020) Hindi 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Ateet%20%282020%29/Ateet%20%282020%29%20Hindi%20720p%20WEB-DL.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzODAzNTM4Ml5BMl5BanBnXkFtZTgwMjQ1NTYyNTM@._V1_UY1200_CR135,0,630,1200_AL_.jpg",Bank Chor 2017 Hindi 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Bank%20Chor%20%282017%29/Bank%20Chor%202017%20Hindi%20720p%20HDRip%20x264%20AAC%20MSubS%20-%20Hon3y.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://i1.wp.com/www.bollywoodcrazies.com/wp-content/uploads/2019/12/IMG-20191219-WA0019.jpg?fit=1280%2C1280&ssl=1",Bunker (2020) Hindi Proper WEB-DL - 1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Bunker%20%282020%29/Bunker%20%282020%29%20Hindi%20Proper%20WEB-DL%20-%201080p%20-%20AVC%20-%20AAC%20-%202GB.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://cdn.bollywoodmdb.com/movies/largethumb/2020/darbaan/poster.jpg",Darbaan.2020.1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Darbaan%20%282020%29/Darbaan.2020.1080p.ZEE5.WEB-DL.AAC2.0.H.264-Telly.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMEkh0oRvPkeFf-nYo6tscV7vkQrUc9BAiA&usqp=CAU",Darbar (2020) 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Darbar%20%282020%29/Darbar%20%282020%29%20720p%20Hindi%20HDRip%28ORG%20Audio%29%20%20-%20x264%20-AAC%20-%201.5GB%20-%20ESubs%20%5BMOVCR%5D.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkwZjNhNzMtZmYwMi00MzA5LTlmYTUtM2M3YjQ4ZTg3YmY4XkEyXkFqcGdeQXVyNTA1ODE4MzM@._V1_.jpg",Robibaar (2019) Bengali 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Robibaar%20%282019%29/Robibaar%20%282019%29%20Bengali%20720p%20Hoichoi%20WEB-DL.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Yeh Ballet (2020)1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Yeh%20Ballet%20%282020%29/Yeh%20Ballet%20%282020%291080p.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",The Lion King (2019)
+http://46.60.1.85/storaged/D/hm-7/Movies/Animation/X19/The.Lion.King.2019.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Arctic Dogs 2019
+http://46.60.1.85/storaged/D/os-7/Movies/Animation/Arctic.Dogs.2019.mp4
