@@ -99,7 +99,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 group-title="IP Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",DesheBideshe (2)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA",Amar Bangla
+
+********************************* Indian Bangla *******************************************
+
+
+#EXTINF:-1 group-title="Indian-Bangla",Amar Bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/PK9Gm5g.png",Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
@@ -119,6 +123,8 @@ http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="none",Dubai Sport 1 FHD
 http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+**************************************** FM Radio *********************************************
 #EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",ABC Radio(89.2)
 http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
 #EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Big FM
@@ -183,6 +189,11 @@ http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
 http://hot.out.airtime.pro:8000/hot_a
 #EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Shri Ram
 http://dard.out.airtime.pro:8000/dard_a
+
+
+
+********************************** Channel *****************************
+
 #EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoLZhDYy0d4JYUcXfMQK_LbexJUaIVK1ON3Q&usqp=CAU",Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Peace TV English
