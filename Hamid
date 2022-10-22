@@ -183,12 +183,8 @@ http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
 http://gurbani.out.airtime.pro:8000/gurbani_a
 #EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Guruvar
 http://iskon2b.out.airtime.pro:8000/iskon2b_a
-#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Krishna
-http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
-#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Shiva
-http://hot.out.airtime.pro:8000/hot_a
-#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Shri Ram
-http://dard.out.airtime.pro:8000/dard_a
+
+
 
 
 
