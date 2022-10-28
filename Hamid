@@ -201,22 +201,19 @@ http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&r
 
 ********************************** Channel *****************************
 
-#EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoLZhDYy0d4JYUcXfMQK_LbexJUaIVK1ON3Q&usqp=CAU",Bible Explorations
-http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Peace TV English
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Peace TV Urdu
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
 #EXTINF:-1 group-title="BrightWall Technology (Channel)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU",RTP TV
 http://live4.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w55167431.m3u8
+
+
+
 #EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIxMWNjZGMtNzVmYi00MmIwLWFlNzQtMDhjMTJiYjQ2NjE1XkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg",5.Weddings.2018.1080p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/5%20Weddings%20%282018%29/5.Weddings.2018.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjlkZjBjZmUtNjZjNS00ODlkLWIzODYtODY0NmViN2E0MjIxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",Angrezi Medium (2020)
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Angrezi%20Medium%20%282020%29/Angrezi%20Medium%20%282020%29%20Hindi%20PreDVD%20-%20720p%20-%20x264%20-%20AAC%20-%201.2GB.mkv
 #EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Arjun_Patiala_poster.jpg/220px-Arjun_Patiala_poster.jpg",Arjun.Patiala.2019.720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Arjun%20Patiala%20%282019%29/Arjun.Patiala.2019.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU4NmY2NDMtODRmMC00NzljLTkwNDMtYThmNTE1OThhZjMwXkEyXkFqcGdeQXVyODk1NjE0OTk@._V1_.jpg",Asur (2020) Bengali Original  1080p
-http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Asur%20%282020%29/Asur%20%282020%29%20Bengali%20Original%20%201080p%20ZEE5%20WEB-DL.mp4
+
 #EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQzN2UyMzQtNTg1Ni00ZmJkLWE2OWQtZmVlZGJiZGQ5NjVmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",Asuraguru (2020) 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Asuraguru%20%282020%29/Asuraguru%20%282020%29%20720p%20HDrip.mp4
 #EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYmYxODEtMzQ0NS00NjM5LTg1NDQtYWVhOTJjOWU0NGY0XkEyXkFqcGdeQXVyODI1Nzg1OTQ@._V1_UY1200_CR101,0,630,1200_AL_.jpg",Ateet (2020) Hindi 720p
