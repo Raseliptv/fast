@@ -202,16 +202,7 @@ http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&r
 http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 #EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",The Buddhist Online Radio
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
-#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif",Ujala Radio
-http://stream2.ujala.nl/stream/2/listen.mp3
-#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Devi Maa
-http://ibadat.out.airtime.pro:8000/ibadat_a
-#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Ganesha
-http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
-#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Gurbani
-http://gurbani.out.airtime.pro:8000/gurbani_a
-#EXTINF:-1 group-title="BrightWall Technology (FM Radio)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",2B! Radio Sangam Guruvar
-http://iskon2b.out.airtime.pro:8000/iskon2b_a
+
 
 
 
