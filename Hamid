@@ -1,4 +1,4 @@
-
+#EXTM3U
 ********************* Bangla News *******************
 
 #EXTM3U
@@ -212,6 +212,238 @@ http://46.60.1.85/storaged/D/hm-7/Movies/Animation/X19/The.Lion.King.2019.mp4
 #EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Arctic Dogs 2019
 http://46.60.1.85/storaged/D/os-7/Movies/Animation/Arctic.Dogs.2019.mp4
 
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg",Bangla Channel
+http://str24.l9574.com/515.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Banglavision
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288",Banglavision
+https://rhridoy136.shortcm.li/banglavisiontv.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png",CHANNEL 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.imgur.com/XA5u4gk.png",DBC News
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.imgur.com/XA5u4gk.png",DBC News (1080p)
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA",Nandan Tv
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288",News 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",38.Doyel TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",52.Voice TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",6.Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/WpMA9kC.png",1.Anando TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://chsuk.tv/img/cateringcircle.png",34.Channel S
+http://str24.l9574.com/519.stream/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj",43.KTV Bangla
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",45.Movie Bangla
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Gaan Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/121.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",BD LIVE IPTV
+https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/KXsOj3L.png",BOISHAKHI TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",CHANNEL S (4)
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg",ITV IPTV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?Live-TV™
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/7HplreU.jpg",NANDAN IPTV [BD]
+http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/go_back.jpg",GO BACK
+http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Korean/Go%20Back%20(2021)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/hero__2021_.jpg",HERO (2021)
+http://10.16.100.206/ftps3/ftps3d7/Movies/South%20Indian/Hero%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/master.jpg",MASTER
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/Master%20(2021)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/mission_possible.jpg",MISSION POSSIBLE
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Korean/Mission%20Possible%20(2021)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/night_in_paradise.png",NIGHT IN PARADISE
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Korean/Night%20in%20Paradise%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/odiyan.jpg",ODIYAN
+http://10.16.100.206/ftps3/ftps3d1/Movies/South%20Indian%20(Hindi%20Dubbed)/Odiyan%20(2018)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/one_day__eoneunal_.jpg",ONE DAY (EONEUNAL)
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Korean/One%20Day%20(Eoneunal)%20(2017)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/photo_prem.jpg",PHOTO PREM
+http://10.16.100.206/ftps3/ftps3d5/Movies/South%20Indian/Photo%20Prem%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/pokkiri_simon_oru_kadutha_aaradhakan.jpg",POKKIRI SIMON ORU KADUTHA AARADHAKAN
+http://10.16.100.206/ftps3/ftps3d5/Movies/South%20Indian%20(Hindi%20Dubbed)/Pokkiri%20Simon%20Oru%20Kadutha%20Aaradhakan%20(2017)%20720p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/radhe.jpg",RADHE
+http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Hindi/Radhe%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/snatch_up__meo_ni_baek_.jpg",SNATCH UP (MEO NI BAEK)
+http://10.16.100.206/ftps3/ftps3d1/Movies/Korean/Snatch%20Up%20(Meo%20ni%20baek%20)%20(2018)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/solo_brathuke_so_better.jpg",SOLO BRATHUKE SO BETTER (HINDI DUBBED)
+http://10.16.100.248/ftps6d4/Movies/South%20Indian(Hindi%20Dubbed)/Solo%20Brathuke%20So%20Better%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/soorarai_pottru__udaan_.jpg",SOORARAI POTTRU (UDAAN)
+http://10.16.100.202/ftps10/iccftps10sasd8/Movies/South%20Indian%20(Hindi%20Dubbed)/Udaan%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/v.jpg",V
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian%20(Hindi%20Dubbed)/V%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/world_famous_lover__hindi_dubbed_.jpg",WORLD FAMOUS LOVER (HINDI DUBBED)
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/World%20Famous%20Lover%20(2021)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)",GODZILLA VS KONG
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/English/Godzilla%20vs%20Kong%20(2021)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/the_girl_on_the_train.jpg",THE GIRL ON THE TRAIN
+http://10.16.100.206/ftps3/ftps3d3/Movies/Hindi/The%20Girl%20On%20The%20Train%20(2021)%20Hindi%201080P%20%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/speed_harry%20poter%2010%20poster.jpg",HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)
+http://10.16.100.245/ftps2d1/ftps1d3/English%20Movies/2015/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%20(2010)%20%5B1080p%5D.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/speed_Harry_Potter_and_the_Goblet_of_Fire_film_%20poster.jpg",HARRY POTTER AND THE GOBLET OF FIRE (2005)
+http://10.16.100.241/ftps3d3/Movies/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(2005)%20%5B1080p%5D.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/speed_Harry_potter_and_the_order_of_the_phoenix_2007_90_poster%20poster.jpg",HARRY POTTER AND THE ORDER OF THE PHOENIX (2007)
+http://10.16.100.241/ftps3d6/English/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20(2007)1080p.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/speed_harry%20porter%20poster.jpg",HARRY POTTER AND THE SORCERERS STONE (2001)
+http://10.16.100.245/ftps2d1/ftps1d3/English%20Movies/2015/Harry%20Potter%20and%20the%20Sorcerers%20Stone%20(2001)%201080p%20BrRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/wrong_turn.jpg",WRONG TURN
+http://10.16.100.206/ftps3/ftps3d2/Movies/English/Wrong%20Turn%20(2021)%201080p%20BluRay.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/wrong_turn_2_dead_end.jpg",WRONG TURN 2 DEAD END
+http://10.16.100.241/ftps3d3/Movies/English/Wrong%20Turn%202%20Dead%20End%20(2007)%201080p%20BrRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/wrong_turn_3_left_for_dead.jpg",WRONG TURN 3 LEFT FOR DEAD
+http://10.16.100.246/ftps4d2/Movies/English/Wrong%20Turn%203%20Left%20For%20Dead%20(2009)%201080p%20BrRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/wrong_turn_4__bloody_beginnings.jpg",WRONG TURN 4 BLOODY BEGINNINGS
+http://10.16.100.241/ftps3d1/Movies/English/Wrong%20Turn%204%20Bloody%20Beginnings%20(2011)%201080p%20BrRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/wrong_turn_5_bloodlines.jpg",WRONG TURN 5 BLOODLINES
+http://10.16.100.246/ftps4d3/Movies/English/Wrong%20Turn%205%20Bloodlines%20(2012)%201080p%20BrRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/alludu_adhurs.jpg",ALLUDU ADHURS
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian/Telegu/Alludu%20Adhurs%20(2021)%20Telugu%20PreDVDRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/pulikkuthi_pandi.jpg",PULIKKUTHI PANDI
+http://10.16.100.248/ftps6d4/Movies/South%20Indian/Pulikkuthi%20Pandi%20(2021)%20Tamil%201080p%C2%A0WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/kunthi.jpg",SKUNTHI
+http://10.16.100.248/ftps6d1/Movies/South%20Indian/Kunthi%20(2021)%201080p%20BluRay%20.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age.jpg",THE CROODS A NEW AGE
+http://10.16.100.248/ftps6d1/Movies/Animation/The%20Croods%20A%20New%20Age%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://i.pinimg.com/originals/36/bf/89/36bf89563aab0807c66b717e34edb047.jpg",15 Lakh Kadon Aauga 2020 Punjabi 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/15%20Lakh%20Kadon%20Aauga%20%282020%29/15%20Lakh%20Kadon%20Aauga%202020%20Punjabi%20720p%20AMZN%20WEBRip%20AAC%20x264%20-%20LOKiHD%20-%20Telly.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhlM2IwNjUtZmEyMy00MGU1LWJiY2QtMDYyZWM4MjUxZTk0XkEyXkFqcGdeQXVyMTI0NTI1MDEw._V1_.jpg",376 D (2020) Hindi 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/376%20D%20%282020%29/376%20D%20%282020%29%20Hindi%20720p%20WEBRip%20x264%20AAC.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIxMWNjZGMtNzVmYi00MmIwLWFlNzQtMDhjMTJiYjQ2NjE1XkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg",5.Weddings.2018.1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/5%20Weddings%20%282018%29/5.Weddings.2018.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjlkZjBjZmUtNjZjNS00ODlkLWIzODYtODY0NmViN2E0MjIxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",Angrezi Medium (2020)
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Angrezi%20Medium%20%282020%29/Angrezi%20Medium%20%282020%29%20Hindi%20PreDVD%20-%20720p%20-%20x264%20-%20AAC%20-%201.2GB.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Arjun_Patiala_poster.jpg/220px-Arjun_Patiala_poster.jpg",Arjun.Patiala.2019.720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Arjun%20Patiala%20%282019%29/Arjun.Patiala.2019.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU4NmY2NDMtODRmMC00NzljLTkwNDMtYThmNTE1OThhZjMwXkEyXkFqcGdeQXVyODk1NjE0OTk@._V1_.jpg",Asur (2020) Bengali Original  1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Asur%20%282020%29/Asur%20%282020%29%20Bengali%20Original%20%201080p%20ZEE5%20WEB-DL.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQzN2UyMzQtNTg1Ni00ZmJkLWE2OWQtZmVlZGJiZGQ5NjVmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",Asuraguru (2020) 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Asuraguru%20%282020%29/Asuraguru%20%282020%29%20720p%20HDrip.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYmYxODEtMzQ0NS00NjM5LTg1NDQtYWVhOTJjOWU0NGY0XkEyXkFqcGdeQXVyODI1Nzg1OTQ@._V1_UY1200_CR101,0,630,1200_AL_.jpg",Ateet (2020) Hindi 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Ateet%20%282020%29/Ateet%20%282020%29%20Hindi%20720p%20WEB-DL.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",MAGIC ARCH 3D
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Animated/Magic%20Arch%203D%20(2020)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzODAzNTM4Ml5BMl5BanBnXkFtZTgwMjQ1NTYyNTM@._V1_UY1200_CR135,0,630,1200_AL_.jpg",Bank Chor 2017 Hindi 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Bank%20Chor%20%282017%29/Bank%20Chor%202017%20Hindi%20720p%20HDRip%20x264%20AAC%20MSubS%20-%20Hon3y.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/super_over.jpg",SUPER OVER
+http://10.16.100.206/ftps3/ftps3d2/Movies/South%20Indian/Super%20Over%20(2021)%20Tamil%201080%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/100_percent_wolf.jpg",100 PERCENT WOLF
+http://10.16.100.206/ftps3/ftps3d5/Movies/Animated/100%20Percent%20Wolf%20(2020)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/the_donkey_king.jpg",THE DONKEY KING
+http://10.16.100.206/ftps3/ftps3d6/Movies/Animated/The%20Donkey%20King%20(2020)%201080p%20BluRay.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="http://10.16.100.244/files/the_great_indian_kitchen__oru_kudam_.jpg",THE GREAT INDIAN KITCHEN (ORU KUDAM)
+http://10.16.100.248/ftps6d3/Movies/South%20Indian/The%20Great%20Indian%20Kitchen%20(Oru%20Kudam)%20(2021)%20Malayam%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk0NDFiZjAtZWVmNS00YWQ2LTk5M2QtZmNlZTUyZDdlNDFiXkEyXkFqcGdeQXVyMTA1NDM0Nzk0._V1_.jpg",Barot House (2019) Hindi 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Barot%20House%20%282019%29/Barot%20House%20%282019%29%20Hindi%20720p%20WebRip%20AAC%20x264%20ESub%20%5BTeam%20DRSD%5D.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFlZjA1YzAtMmYwNy00NjQ5LWJkNDUtNzczYjc0NGViNjRjXkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_.jpg",Bhoot.Part.One.The.Haunted.Ship.2020.1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Bhoot%20Part%20One%20-%20The%20Haunted%20Ship%20%282020%29/Bhoot.Part.One.The.Haunted.Ship.2020.1080p.AMZN.WEB-DL.DD%2B5.1.HEVC-Telly.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",MAARA
+http://10.16.100.206/ftps3/ftps3d5/Movies/South%20Indian/Maara%20(2021)%20720p%20HDRip.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://i1.wp.com/www.bollywoodcrazies.com/wp-content/uploads/2019/12/IMG-20191219-WA0019.jpg?fit=1280%2C1280&ssl=1",Bunker (2020) Hindi Proper WEB-DL - 1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Bunker%20%282020%29/Bunker%20%282020%29%20Hindi%20Proper%20WEB-DL%20-%201080p%20-%20AVC%20-%20AAC%20-%202GB.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg3MDUwMTEtMjNkYi00YjhkLWI1MmUtYzdhZWEzNTkzNDI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",Comedy Couple 1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Comedy%20Couple%20%282020%29/Comedy.Couple.1080p.ZEE5.WEB-DL.AAC2.0.H.264-Telly.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://cdn.bollywoodmdb.com/movies/largethumb/2020/darbaan/poster.jpg",Darbaan.2020.1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Darbaan%20%282020%29/Darbaan.2020.1080p.ZEE5.WEB-DL.AAC2.0.H.264-Telly.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMEkh0oRvPkeFf-nYo6tscV7vkQrUc9BAiA&usqp=CAU",Darbar (2020) 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Darbar%20%282020%29/Darbar%20%282020%29%20720p%20Hindi%20HDRip%28ORG%20Audio%29%20%20-%20x264%20-AAC%20-%201.5GB%20-%20ESubs%20%5BMOVCR%5D.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzgzMDNkYzQtN2RlMi00MGNlLWJlODUtZjUxNGJhOTM4NDQ0XkEyXkFqcGdeQXVyMTI0MjU5MzUw._V1_.jpg",Foot Fairy 2020 Hindi 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/FootFairy%20%282020%29/Foot%20Fairy%202020%20Hindi%20720p%20HDTv%20Rip%20AAC%20x264%20-%20LOKiHD%20-%20Telly.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/halal-love-story-et00145467-12-10-2020-03-11-56.jpg",Halal Love Story.2020.720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Halal%20Love%20Story%20%282020%29/Halal.Love.Story.2020.720p.AMZN.WEB-DL.DDP5.1.H.264-Telly.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkwZjNhNzMtZmYwMi00MzA5LTlmYTUtM2M3YjQ4ZTg3YmY4XkEyXkFqcGdeQXVyNTA1ODE4MzM@._V1_.jpg",Robibaar (2019) Bengali 720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Robibaar%20%282019%29/Robibaar%20%282019%29%20Bengali%20720p%20Hoichoi%20WEB-DL.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ3MDEwNTEtZTlmZi00MjA2LWExZTYtNmMwNmZkNmI0ZTczXkEyXkFqcGdeQXVyMTE5MDgzMjMx._V1_.jpg",Serious.Men.2020.720p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Serious%20Men%20%282020%29/Serious.Men.2020.720p.NF.WEB-DL.AAC2.0.x264-BonsaiHD.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Yeh Ballet (2020)1080p
+http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Yeh%20Ballet%20%282020%29/Yeh%20Ballet%20%282020%291080p.mkv
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",The Lion King (2019)
+http://46.60.1.85/storaged/D/hm-7/Movies/Animation/X19/The.Lion.King.2019.mp4
+#EXTINF:-1 group-title="BrightWall Technology (Movie)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Arctic Dogs 2019
+http://46.60.1.85/storaged/D/os-7/Movies/Animation/Arctic.Dogs.2019.mp4
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E1
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E01.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E2
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E02.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E3
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E03.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E4
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E04.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E5
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E05.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E6
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E06.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E7
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E07.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E8
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E08.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E9
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E09.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E10
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E10.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E11
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E11.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",MONEY HONEY SEASON 01E12
+http://10.16.100.206/ftps3/ftps3d2/TV%20Show/Bangla%20(BD)/Money%20Honey%20Season%2001%20(2019)%20Completed/Money%20Honey%20S01E12.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",CHITRONATTE BITHI (2020)
+http://10.16.100.206/ftps3/ftps3d4/TV%20Show/Bangla%20Drama/Chitronatte%20Bithi%20(2020)%201080p%20WEBHD.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/money_honey_season_01__2019__completed.jpg",JODI KINTU TOBUO
+http://10.16.100.206/ftps3/ftps3d1/Movies/Bangla/Jodi%20Kintu%20Tobuo%20(2021)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg",CONTRACT SEASON 01E1
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E01.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg",CONTRACT SEASON 01E2
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E02.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg",CONTRACT SEASON 01E3
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E03.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg",CONTRACT SEASON 01E4
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E04.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg",CONTRACT SEASON 01E5
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E05.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg",CONTRACT SEASON 01E6
+http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E06.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg",KUHOK SEASON 01E1
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E01.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg",KUHOK SEASON 01E2
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E02.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg",KUHOK SEASON 01E3
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E03.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg",KUHOK SEASON 01E4
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E04.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg",KUHOK SEASON 01E5
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E05.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg",KUHOK SEASON 01E6
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E06.mkv
+#EXTINF:-1 group-title="BrightWall Technology  (Bangla)" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg",KUHOK SEASON 01E7
+http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E07.mkv
 
 
 
