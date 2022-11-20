@@ -356,8 +356,7 @@ http://89.187.175.143/3012/tracks-v1a1/mono.m3u8
 http://89.187.175.143/3032/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="freecatv" resolution="1280@720",Cinemax
 http://89.187.175.143/4170/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="freecatv" resolution="1280@720",NHK World Japan
-http://89.187.175.143/3008/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="freecatv" resolution="720@480",ARY Music
 http://208.86.19.13:81/824.stream/index.m3u8
 #EXTINF:-1 group-title="freecatv" resolution="1280@720",Jalsha Movies
@@ -366,10 +365,8 @@ http://str24.l9574.com/617.stream/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 group-title="freecatv" resolution="1280@720",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-#EXTINF:-1 resolution="1280@720",BT Sports 2 freecatv
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 resolution="720@576",Pogo - Rs 4.25
-http://175.107.244.52:4455/play/a03i/index.m3u8
+
+
 #EXTINF:-1 resolution="768@576",Bein Sports 🇶🇦
 http://175.107.244.52:4457/play/a070/index.m3u8
 #EXTINF:-1 resolution="1048@576",X SPORT 🇷🇺
