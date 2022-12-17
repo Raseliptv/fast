@@ -1,30 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Hamid Sports"resolution="1920@1080",T sports HD
-http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Hamid Sports" resolution="1920@1080", bein sorts
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
                             
                           Bangladesh
                         
 #EXTINF:-1 group-title="Bangladesh"resolution="1920@1080"tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla (jago)
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" resolution="1920@1080",Channel I
+
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh"resolution="1280@720",RTV
 https://stream.cstfctg.com////rtvonline////rtv2021.stream////playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh"resolution="1280@720",Boishakhi TV
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Bangladesh"resolution="1920@1080",Banglavision HD
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh"resolution="640@360",Deepto TV
-http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" resolution="1280@720",Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1group-title="Bangladesh" resolution="1280@720",SATV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh" resolution="852@480",Bangla TV HD Freecatv
-http://208.86.19.16/673.stream/index.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" resolution="1280@720",Channel 9 HD
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh" resolution="1280@720",Jamuna News
