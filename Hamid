@@ -397,16 +397,12 @@ https://tv.googledrivelinks.com/autoq.php?c=Zoom&e=.m3u8
 https://tv.googledrivelinks.com/autoq.php?c=VH1&e=.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="06.ENGLISH",BBC America (720p)
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="" group-title=" group-title="07.ENGLISH MOVIES",Sony Pix
-http://15.1.5.10:8082/sony-pix-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="07.ENGLISH MOVIES",Lotus Macau
-http://anren.live/HK/BiIOU11uLA.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title=" group-title="07.ENGLISH MOVIES",STAR MOVIES
 http://15.1.5.14:8082/star-movies-hd/index.m3u8
-#EXTINF:-1 group-title="07.ENGLISH MOVIES",Show-Time HD 4K
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="07.ENGLISH MOVIES",Sony Pix
-https://tv.googledrivelinks.com/autoq.php?c=Sony_Pix_HD&e=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="08.SPORTS",T SPORTS HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="08.SPORTS",GTV HD
