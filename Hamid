@@ -149,16 +149,13 @@ https://tv.googledrivelinks.com/autoq.php?c=Zoom&e=.m3u8
 https://tv.googledrivelinks.com/autoq.php?c=VH1&e=.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="06.ENGLISH",BBC America (720p)
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="" group-title=" group-title="07.ENGLISH MOVIES",Sony Pix
-http://15.1.5.10:8082/sony-pix-hd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="07.ENGLISH MOVIES",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="07.ENGLISH MOVIES",STAR MOVIES
-http://15.1.5.14:8082/star-movies-hd/index.m3u8
+
 #EXTINF:-1 group-title="07.ENGLISH MOVIES",Show-Time HD 4K
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="07.ENGLISH MOVIES",Sony Pix
-https://tv.googledrivelinks.com/autoq.php?c=Sony_Pix_HD&e=.m3u8
+
 
 
 
@@ -168,20 +165,16 @@ https://tv.googledrivelinks.com/autoq.php?c=Sony_Pix_HD&e=.m3u8
 #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="08.SPORTS",ABU DHABI SPORT 2 HD
 http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" group-title="09.DOCUMENTARY",National Geographic
-http://15.1.5.18:8082/ngohd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="09.DOCUMENTARY",National Geographic
-http://15.1.1.10:8282/ngohd/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="09.DOCUMENTARY",TLC SD Hindi
 http://15.1.5.14:8082/tlc-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="09.DOCUMENTARY",TLC HD (GD)
 https://tv.googledrivelinks.com/autoq.php?c=TLC_HD_World&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title=",HISTORY TV18 (GD)
-https://tv.googledrivelinks.com/autoq.php?c=History_TV18_SD&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="09.DOCUMENTARY",DISCOVERY CHANNEL BANGLA (GD)
 https://tv.googledrivelinks.com/autoq.php?c=Discovery_Channel_Bengali&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="09.DOCUMENTARY",BBC Earth (GD)
-https://tv.googledrivelinks.com/autoq.php?c=Sony_BBC_Earth_HD&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="09.DOCUMENTARY",Discovery_Channel_Bengali*
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225747&extension=ts&play_token=gpVtHin114
 #EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="09.DOCUMENTARY",Discovery
@@ -198,22 +191,12 @@ https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HL
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="10.NEWS",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="10.NEWS",DW
-http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="10.NEWS",BBC News
-http://ip2121.com:8081/live/bbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="10.NEWS",CNN
-http://ip2121.com:8081/live/cnn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png?20160518012316" group-title="10.NEWS",Euronews English
-https://euronews.alteox.app/hls/en_stream.m3u8
-#EXTINF:-1 group-title="10.NEWS",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="10.NEWS",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="11.KIDS",Disney Cartoon
-http://103.166.102.58:8000/play/a01y
-#EXTINF:-1 tvg-logo="" group-title=" group-title="11.KIDS",Cartoon Network Hindi
-https://tv.googledrivelinks.com/autoq.php?c=Cartoon_Network_Hindi&e=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg" group-title="11.KIDS",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="11.KIDS",Nick
