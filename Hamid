@@ -114,31 +114,7 @@ http://208.86.19.13:81/613.stream/index.m3u8
 #EXTINF:-1 group-title="01.BANGLADESHI 1",ATN Bangla
 http://208.86.19.13:81/626.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="02.INDIAN BANGLA",Zee Bangla*
-http://15.1.1.10:8282/zee-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="02.INDIAN BANGLA",Star Jalsha India
-http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="02.INDIAN BANGLA",Star Jalsha
-http://15.1.5.10:8082/jalsha/index.m3u8
-#EXTINF:-1 group-title="02.INDIAN BANGLA",Sananda Bangla
-http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="02.INDIAN BANGLA",Zee Bangla
-http://15.1.5.22:8082/zee-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JzBR5i8.png" group-title="02.INDIAN BANGLA",Enter 10 Bangla
-http://15.1.5.14:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="02.INDIAN BANGLA",Jalsha Movies HD
-http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="02.INDIAN BANGLA",Star Jalsha FHD
-http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="02.INDIAN BANGLA",Zee Bangla
-http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="02.INDIAN BANGLA",Zee Bangla Cinema
-http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LNGJDc4.png" group-title="02.INDIAN BANGLA",Amar Bangla
-http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Colors_Bangla_2021.jpg" group-title="02.INDIAN BANGLA",Colors Bangla
-https://tv.googledrivelinks.com/autoq.php?c=Colors_Bengali_HD&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="02.INDIAN BANGLA",Zee Bangla SD
-https://tv.googledrivelinks.com/autoq.php?c=Zee_Bangla&e=.m3u8
+
 
 
 
