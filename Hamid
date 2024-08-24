@@ -176,18 +176,11 @@ https://tv.googledrivelinks.com/autoq.php?c=Colors_Bengali_HD&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="02.INDIAN BANGLA",Zee Bangla SD
 https://tv.googledrivelinks.com/autoq.php?c=Zee_Bangla&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/202006/colors-rishtey_2.png.jpg" group-title="03.HINDI",COLORS
-http://15.1.5.22:8082/colorsindia/index.m3u8
-#EXTINF:-1 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title="03.HINDI",STAR PLUS
-http://15.1.5.14:8082/star-plus/index.m3u8
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="03.HINDI",SONY
-https://tv.googledrivelinks.com/autoq.php?c=Sony_HD&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="03.HINDI",Zee TV
-https://tv.googledrivelinks.com/autoq.php?c=Zee_TV_HD&e=.m3u8
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="03.HINDI",SONY Sab
-https://tv.googledrivelinks.com/autoq.php?c=Sony_SAB&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/%26TV.jpg" group-title="03.HINDI",&TV
-https://tv.googledrivelinks.com/autoq.php?c=And_TV_HD&e=.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="04.HINDI MOVIES",Sony Max HD
 http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="04.HINDI MOVIES",Star Gold HD
