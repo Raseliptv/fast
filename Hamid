@@ -34,14 +34,7 @@ http://172.105.123.238:18002/play/a00a
 http://172.105.123.238:18002/play/a00d
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",BANSAL NEWS
 http://172.105.123.238:18002/play/a02y
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png",Channel I HD
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png",DBC News 24/7
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png",Desh TV Live
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png",Ekushey TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=6ed8e577&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="http://14.102.123.50:5001/jtvimage/TLC_HD_World.png",TLC HD
 http://14.102.123.50:5001/live/479.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Epic_HD.png",Epic
@@ -560,3 +553,21 @@ http://14.102.123.50:5001/live/2004.m3u8
 http://14.102.123.50:5001/live/2005.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/BS9_News.png",BS9 News
 http://14.102.123.50:5001/live/2007.m3u8
+
+//**Banala**
+#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png",Channel I HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png",DBC News 24/7
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png",Desh TV Live
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png",Ekushey TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=6ed8e577&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+
+
+#EXTINF:-1 group-title="BD CAST" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png
+",Channel 24
+https://utube.buddyxiptv.com/@channel24digital.m3u8
+
+
+
