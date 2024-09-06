@@ -565,9 +565,8 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8|Referer=https://
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=6ed8e577&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png
-",Channel 24
-https://utube.buddyxiptv.com/@channel24digital.m3u8
+#EXTINF:-1 group-title="BD CAST" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png",Channel 24
+https://utube.buddyxiptv.com/@channel24digital.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 
 
