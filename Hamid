@@ -1,38 +1,27 @@
 #EXTM3U
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
 http://172.105.123.238:18002/play/a005
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",AASTHA
-http://172.105.123.238:18002/play/a01c
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",ABC Australia HD
-http://172.105.123.238:18002/play/a05c
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",ABP News
-http://172.105.123.238:18002/play/a020
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",ABZY Cool
-http://172.105.123.238:18002/play/a036
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",ABZY Movies
-http://172.105.123.238:18002/play/a03c
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",ACTION CINEMA
-http://172.105.123.238:18002/play/a021
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",Aaj Tak
-http://172.105.123.238:18002/play/a01z
+
+
+
+
+
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",Aastha Bhajan
 http://172.105.123.238:18002/play/a02s
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",Ada Derana 24
-http://172.105.123.238:18002/play/a053
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",Al Jazeera HD
-http://172.105.123.238:18002/play/a05a
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",Athavan TV
-http://172.105.123.238:18002/play/a03p
+
+
+
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",B4U BHOJPURI
 http://172.105.123.238:18002/play/a00c
+
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",B4U KADAK
 http://172.105.123.238:18002/play/a019
+
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",B4U MUSIC
 http://172.105.123.238:18002/play/a00a
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",B4U Movies
 http://172.105.123.238:18002/play/a00d
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",BANSAL NEWS
-http://172.105.123.238:18002/play/a02y
+
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="http://14.102.123.50:5001/jtvimage/TLC_HD_World.png",TLC HD
 http://14.102.123.50:5001/live/479.m3u8
