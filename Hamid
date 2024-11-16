@@ -204,8 +204,7 @@ http://14.102.123.50:5001/live/959.m3u8
 http://14.102.123.50:5001/live/960.m3u8
 #EXTINF:-1 group-title="Devotional" tvg-logo="http://14.102.123.50:5001/jtvimage/JUSOne.png",JUSOne
 http://14.102.123.50:5001/live/961.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://14.102.123.50:5001/jtvimage/Boogle_Bollywood.png",Boogle Bollywood
-http://14.102.123.50:5001/live/962.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Arre.png",Arre HD
 http://14.102.123.50:5001/live/963.m3u8
 #EXTINF:-1 group-title="Devotional" tvg-logo="http://14.102.123.50:5001/jtvimage/Om_Shanti.png",Om Shanti
@@ -224,58 +223,16 @@ http://14.102.123.50:5001/live/975.m3u8
 http://14.102.123.50:5001/live/977.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/TEST1_HD.png",TEST1 HD
 http://14.102.123.50:5001/live/978.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_01.png",Swayam Prabha 01
-http://14.102.123.50:5001/live/980.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_02.png",Swayam Prabha 02
-http://14.102.123.50:5001/live/981.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_03.png",Swayam Prabha 03
-http://14.102.123.50:5001/live/982.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_08.png",Swayam Prabha 08
-http://14.102.123.50:5001/live/983.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_04.png",Swayam Prabha 04
-http://14.102.123.50:5001/live/984.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_07.png",Swayam Prabha 07
-http://14.102.123.50:5001/live/985.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_05.png",Swayam Prabha 05
-http://14.102.123.50:5001/live/986.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_06.png",Swayam Prabha 06
-http://14.102.123.50:5001/live/987.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_09.png",Swayam Prabha 09
-http://14.102.123.50:5001/live/988.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_10.png",Swayam Prabha 10
-http://14.102.123.50:5001/live/989.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_11.png",Swayam Prabha 11
-http://14.102.123.50:5001/live/990.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_12.png",Swayam Prabha 12
-http://14.102.123.50:5001/live/991.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_13.png",Swayam Prabha 13
-http://14.102.123.50:5001/live/992.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_14.png",Swayam Prabha 14
-http://14.102.123.50:5001/live/993.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_16.png",Swayam Prabha 16
-http://14.102.123.50:5001/live/994.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_15.png",Swayam Prabha 15
-http://14.102.123.50:5001/live/995.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_17.png",Swayam Prabha 17
-http://14.102.123.50:5001/live/996.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_21.png",Swayam Prabha 21
-http://14.102.123.50:5001/live/997.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_22.png",Swayam Prabha 22
-http://14.102.123.50:5001/live/998.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swayam_Prabha_18.png",Swayam Prabha 18
-http://14.102.123.50:5001/live/999.m3u8
+
+
+
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/TEST3_HD.png",TEST3 HD
 http://14.102.123.50:5001/live/1059.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://14.102.123.50:5001/jtvimage/TEST5_HD.png",TEST5 HD
 http://14.102.123.50:5001/live/1061.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/TheQIndia.png",The Q
 http://14.102.123.50:5001/live/1066.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_1.png",Vande Gujarat 1
-http://14.102.123.50:5001/live/1069.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_2.png",Vande Gujarat 2
-http://14.102.123.50:5001/live/1070.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_4.png",Vande Gujarat 4
-http://14.102.123.50:5001/live/1071.m3u8
+
 #EXTINF:-1 group-title="Infotainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Samara_News.png",Samara News
 http://14.102.123.50:5001/live/1073.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Ayush_TV.png",Ayush TV
@@ -290,40 +247,12 @@ http://14.102.123.50:5001/live/1079.m3u8
 http://14.102.123.50:5001/live/1080.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://14.102.123.50:5001/jtvimage/CN_HD_Tamil.png",CN HD+ Tamil
 http://14.102.123.50:5001/live/1081.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_3.png",Vande Gujarat 3
-http://14.102.123.50:5001/live/1082.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_5.png",Vande Gujarat 5
-http://14.102.123.50:5001/live/1083.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_6.png",Vande Gujarat 6
-http://14.102.123.50:5001/live/1084.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_7.png",Vande Gujarat 7
-http://14.102.123.50:5001/live/1085.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_8.png",Vande Gujarat 8
-http://14.102.123.50:5001/live/1086.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_9.png",Vande Gujarat 9
-http://14.102.123.50:5001/live/1087.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_10.png",Vande Gujarat 10
-http://14.102.123.50:5001/live/1088.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_11.png",Vande Gujarat 11
-http://14.102.123.50:5001/live/1089.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_12.png",Vande Gujarat 12
-http://14.102.123.50:5001/live/1090.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_13.png",Vande Gujarat 13
-http://14.102.123.50:5001/live/1091.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_14.png",Vande Gujarat 14
-http://14.102.123.50:5001/live/1092.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_15.png",Vande Gujarat 15
-http://14.102.123.50:5001/live/1093.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Vande_Gujarat_16.png",Vande Gujarat 16
-http://14.102.123.50:5001/live/1094.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/RDX_News.png",RDX Goa
 http://14.102.123.50:5001/live/1102.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://14.102.123.50:5001/jtvimage/PEACE_MUSIC.png",PEACE MUSIC
-http://14.102.123.50:5001/live/1103.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://14.102.123.50:5001/jtvimage/MTV_HD_Plus.png",MTV HD Plus
-http://14.102.123.50:5001/live/1145.m3u8
-#EXTINF:-1 group-title="Shopping" tvg-logo="http://14.102.123.50:5001/jtvimage/TEST8_HD.png",TEST8 HD
-http://14.102.123.50:5001/live/1148.m3u8
+
+
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Rangamanch.png",Rangamanch
 http://14.102.123.50:5001/live/1151.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Comedy_Central_HD.png",Comedy Central HD
@@ -338,8 +267,7 @@ http://14.102.123.50:5001/live/1163.m3u8
 http://14.102.123.50:5001/live/1170.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/PTC_Punjabi.png",PTC Punjabi
 http://14.102.123.50:5001/live/1171.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://14.102.123.50:5001/jtvimage/PTC_Chak_De.png",PTC Chak De
-http://14.102.123.50:5001/live/1172.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/V24_TV.png",JKAC News
 http://14.102.123.50:5001/live/1739.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Purnima_TV.png",Purnima TV
@@ -416,10 +344,8 @@ http://14.102.123.50:5001/live/1804.m3u8
 http://14.102.123.50:5001/live/1816.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/NEWS_24_MPCG.png",NEWS 24 MPCG
 http://14.102.123.50:5001/live/1817.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Swarlasika.png",Swaralasika Sangeetalaya
-http://14.102.123.50:5001/live/1826.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Aakash_EduTV_NEET.png",Aakash EduTV NEET
-http://14.102.123.50:5001/live/1827.m3u8
+
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Green_Chillies_TV.png",Green Chillies
 http://14.102.123.50:5001/live/1834.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/And_Pictures.png",And Pictures
@@ -428,8 +354,7 @@ http://14.102.123.50:5001/live/1839.m3u8
 http://14.102.123.50:5001/live/1847.m3u8
 #EXTINF:-1 group-title="Devotional" tvg-logo="http://14.102.123.50:5001/jtvimage/SVBC.png",SVBC
 http://14.102.123.50:5001/live/1850.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Aakash_EduTV_JEE.png",Aakash EduTV JEE
-http://14.102.123.50:5001/live/1851.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/News11_Bharat.png",News11 Bharat
 http://14.102.123.50:5001/live/1853.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/STV_Haryana_News.png",STV Haryana News
@@ -444,8 +369,7 @@ http://14.102.123.50:5001/live/1858.m3u8
 http://14.102.123.50:5001/live/1859.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Punjab_Plus.png",Punjab Plus
 http://14.102.123.50:5001/live/1868.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://14.102.123.50:5001/jtvimage/7X_Music.png",7X Music
-http://14.102.123.50:5001/live/1871.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="http://14.102.123.50:5001/jtvimage/Pogo_Telugu.png",Pogo Telugu
 http://14.102.123.50:5001/live/1883.m3u8
 #EXTINF:-1 group-title="Devotional" tvg-logo="http://14.102.123.50:5001/jtvimage/Kripa_TV.png",Kripa TV
@@ -529,8 +453,7 @@ http://14.102.123.50:5001/live/2000.m3u8
 http://14.102.123.50:5001/live/2001.m3u8
 #EXTINF:-1 group-title="Devotional" tvg-logo="http://14.102.123.50:5001/jtvimage/",Aadinath TV
 http://14.102.123.50:5001/live/2002.m3u8
-#EXTINF:-1 group-title="Educational" tvg-logo="http://14.102.123.50:5001/jtvimage/Crypto_TV.0-TV",3.0 TV
-http://14.102.123.50:5001/live/2003.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/Shekinah.png",Shekinah TV
 http://14.102.123.50:5001/live/2004.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/Virat_24.png",IN 24 News
@@ -538,19 +461,7 @@ http://14.102.123.50:5001/live/2005.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/BS9_News.png",BS9 News
 http://14.102.123.50:5001/live/2007.m3u8
 
-//**Banala**
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png",Channel I HD
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png",DBC News 24/7
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png",Desh TV Live
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png",Ekushey TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=6ed8e577&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
-
-#EXTINF:-1 group-title="BD CAST" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png",Channel 24
-https://utube.buddyxiptv.com/@channel24digital.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 
 
