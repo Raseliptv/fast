@@ -23,8 +23,7 @@ http://172.105.123.238:18002/play/a00a
 http://172.105.123.238:18002/play/a00d
 
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://14.102.123.50:5001/jtvimage/TLC_HD_World.png",TLC HD
-http://14.102.123.50:5001/live/479.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Epic_HD.png",Epic
 http://14.102.123.50:5001/live/481.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Cineplex.png",Colors Cineplex
@@ -159,8 +158,7 @@ http://14.102.123.50:5001/live/557.m3u8
 http://14.102.123.50:5001/live/558.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://14.102.123.50:5001/jtvimage/Pogo_Hindi.png",Pogo Hindi
 http://14.102.123.50:5001/live/559.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://14.102.123.50:5001/jtvimage/NDTV_Good_Times.png",GOOD TiMES
-http://14.102.123.50:5001/live/560.m3u8
+
 #EXTINF:-1 group-title="Devotional" tvg-logo="http://14.102.123.50:5001/jtvimage/Rujumargam_TV.png",Mercy TV
 http://14.102.123.50:5001/live/924.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/A1_TV_Rajasthan.png",A1 TV Rajasthan
@@ -191,8 +189,7 @@ http://14.102.123.50:5001/live/950.m3u8
 http://14.102.123.50:5001/live/951.m3u8
 #EXTINF:-1 group-title="Devotional" tvg-logo="http://14.102.123.50:5001/jtvimage/GarvGurbani.png",Garv Punjabi Gurbani
 http://14.102.123.50:5001/live/952.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://14.102.123.50:5001/jtvimage/Propex_TV.png",Propex TV
-http://14.102.123.50:5001/live/953.m3u8
+
 #EXTINF:-1 group-title="Devotional" tvg-logo="http://14.102.123.50:5001/jtvimage/Hindu_Dharmam.png",Hindu Dharmam
 http://14.102.123.50:5001/live/955.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/TV_5_Kannada.png",TV 5 Kannada
@@ -485,8 +482,7 @@ http://14.102.123.50:5001/live/1926.m3u8
 http://14.102.123.50:5001/live/1933.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/News_Tamil_24x7.png",News Tamil 24x7
 http://14.102.123.50:5001/live/1954.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://14.102.123.50:5001/jtvimage/Food_XP.png",Foodxp
-http://14.102.123.50:5001/live/1955.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Sidharth_TV.png",Sidharth TV
 http://14.102.123.50:5001/live/1956.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/Sidharth_Gold.png",Sidharth Gold
