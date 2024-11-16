@@ -2,8 +2,17 @@
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
 http://172.105.123.238:18002/play/a005
 
+//*************SOUTH INDIAN HINDI************\\
 #EXTINF:-1 tvg-id="" tvg-name="Johaar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46hWv4UGnQrKD7aYywsnpZI6NEe.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Johaar (2020)
 http://xtv.ooo:8080/movie/starmpk/mpk1234/207569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thappu Thanda (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tqCmLfbzYF8ECKsKMHemEdVP7K.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Thappu Thanda (2017)
+http://xtv.ooo:8080/movie/starmpk/mpk1234/207570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Forensic (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nnOFdY23oTr1f8NjsebvREjJdf.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Forensic (2020)
+http://xtv.ooo:8080/movie/starmpk/mpk1234/207572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jism Aur Khoon (Appavum Veenjum) (2015)" tvg-logo="https://zmovies4u.com/wp-content/uploads/2021/05/MV5BOGQ4ZTZiZjgtMDU3Mi00ZDFjLTg1OTItYjA2MjIwZjYwOTgxXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Jism Aur Khoon (Appavum Veenjum) (2015)
+http://xtv.ooo:8080/movie/starmpk/mpk1234/207571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Terrorist (2018)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2YzdmYWItZDQ4Ni00MjhmLTlkZGQtMjEzMDY2ZTlkY2UwXkEyXkFqcGdeQXVyMzc4ODk0NTc@._V1_.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",The Terrorist (2018)
+http://xtv.ooo:8080/movie/starmpk/mpk1234/207573.mkv
 
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushay TV(BDIX)
