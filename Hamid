@@ -2,11 +2,16 @@
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
 http://172.105.123.238:18002/play/a005
 
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushay TV(BDIX)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",Aastha Bhajan
 http://172.105.123.238:18002/play/a02s
 
-
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58KJbk.png",DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",B4U BHOJPURI
 http://172.105.123.238:18002/play/a00c
