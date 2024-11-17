@@ -39,7 +39,7 @@ http://172.105.123.238:18002/play/a00d
 
 
 !************************* Sports ****************************
-#EXTINF:-1 tvg-id="" tvg-name="*** Hamid TV ***" tvg-logo="https://drive.google.com/file/d/1lqbjYEZzZlzXa5JSiOdsKIGi6FWg9RmG/preview" group-title="CRICKET",*** Hamid TV ***
+#EXTINF:-1 tvg-id="" tvg-name="*** Hamid TV ***" tvg-logo="http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg" group-title="CRICKET",*** Hamid TV ***
 http://xtv.ooo:8080/starmpk/mpk1234/26014
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET",T-SPORTS
 http://xtv.ooo:8080/starmpk/mpk1234/167590
