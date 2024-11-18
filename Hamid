@@ -36,11 +36,6 @@ http://97.74.103.44:8089/amrbd/BOISHAKI-TV/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",9XM
-http://172.105.123.238:18002/play/a005
-
 !//*************SOUTH INDIAN HINDI Movie************\\
 
 #EXTINF:-1 tvg-id="" tvg-name="Thappu Thanda (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tqCmLfbzYF8ECKsKMHemEdVP7K.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Thappu Thanda (2017)
@@ -51,29 +46,6 @@ http://xtv.ooo:8080/movie/starmpk/mpk1234/207572.mkv
 http://xtv.ooo:8080/movie/starmpk/mpk1234/207571.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Terrorist (2018)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2YzdmYWItZDQ4Ni00MjhmLTlkZGQtMjEzMDY2ZTlkY2UwXkEyXkFqcGdeQXVyMzc4ODk0NTc@._V1_.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",The Terrorist (2018)
 http://xtv.ooo:8080/movie/starmpk/mpk1234/207573.mkv
-
-
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushay TV(BDIX)
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="BD2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushey TV(BD2)
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",Aastha Bhajan
-http://172.105.123.238:18002/play/a02s
-
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58KJbk.png",DESHI TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",B4U BHOJPURI
-http://172.105.123.238:18002/play/a00c
-
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",B4U KADAK
-http://172.105.123.238:18002/play/a019
-
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",B4U MUSIC
-http://172.105.123.238:18002/play/a00a
-#EXTINF:-1 group-title="DD FREE DISH" tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png",B4U Movies
-http://172.105.123.238:18002/play/a00d
 
 
 
@@ -303,7 +275,7 @@ http://14.102.123.50:5001/live/1954.m3u8
 
 
 ***************** Indian Bangla*************
-#EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bangla" tvg-logo="" group-title="Indian Bangla News",IN: Republic Bangla
+#EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bangla" tvg-logo="" group-title="Indian Bangla",IN: Republic Bangla
 http://xtv.ooo:8080/starmpk/mpk1234/355824
 
 
