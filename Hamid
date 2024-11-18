@@ -1,6 +1,6 @@
 #EXTM3U
 !******************* BANGLADESH ******************
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- HAMID TV  ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="BANGLADESH",•●★--- HAMID TV ----★●•
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- HAMID TV  ----★●•" tvg-logo="https://pd.heracle.net/api/v1/file-entries/2238113?workspaceId=0&thumbnail=" group-title="BANGLADESH",•●★--- HAMID TV ----★●•
 http://xtv.ooo:8080/starmpk/mpk1234/245892
 #EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bangla" tvg-logo="" group-title="BANGLADESH",IN: Republic Bangla
 http://xtv.ooo:8080/starmpk/mpk1234/355824
