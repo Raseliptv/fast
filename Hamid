@@ -1,7 +1,7 @@
 #EXTM3U
 !******************* BANGLADESH ******************
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- HAMID TV  ----★●•" tvg-logo="https://pd.heracle.net/api/v1/file-entries/2238113?workspaceId=0&thumbnail=" group-title="BANGLADESH",•●★--- HAMID TV ----★●•
-http://xtv.ooo:8080/starmpk/mpk1234/245892
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- HAMID TV  ----★●•" tvg-logo="https://s3.us-west-002.backblazeb2.com/ProfitDrive2/uploads/9e3c429a-e88c-493e-b941-72e4e5f69a44/9e3c429a-e88c-493e-b941-72e4e5f69a44?response-content-type=image%2Fjpeg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002db3aa18594760000000009%2F20241118%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20241118T065918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c70907c86911bd84c921e650c7acbeac6549727a67e1a8bfbe768f43d5d0321a" group-title="BANGLADESH",•●★--- HAMID TV ----★●•
+https://s3.us-west-002.backblazeb2.com/ProfitDrive2/uploads/9e3c429a-e88c-493e-b941-72e4e5f69a44/9e3c429a-e88c-493e-b941-72e4e5f69a44?response-content-type=image%2Fjpeg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002db3aa18594760000000009%2F20241118%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20241118T065918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=c70907c86911bd84c921e650c7acbeac6549727a67e1a8bfbe768f43d5d0321a
 #EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bangla" tvg-logo="" group-title="BANGLADESH",IN: Republic Bangla
 http://xtv.ooo:8080/starmpk/mpk1234/355824
 #EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?" group-title="BANGLADESH",BTV
