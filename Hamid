@@ -4,12 +4,27 @@
 http://xtv.ooo:8080/starmpk/mpk1234/245892
 #EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bangla" tvg-logo="" group-title="BANGLADESH",IN: Republic Bangla
 http://xtv.ooo:8080/starmpk/mpk1234/355824
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="BANGLADESH",BTV
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?" group-title="BANGLADESH",BTV
 http://97.74.103.44:8089/load/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="BANGLADESH",T-SPORTS
 http://97.74.103.44:8089/amrbd/T-SPORTS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="G-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",G-TV
+http://97.74.103.44:8089/amrbd/GTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="BANGLADESH",BTV
+http://97.74.103.44:8089/load/btv-world/playlist.m3u8
 
+http://97.74.103.44:8089/load/asiantv/playlist.m3u8
+
+http://97.74.103.44:8089/amrbd/MASRANGA-TV/playlist.m3u8
+
+http://97.74.103.44:8089/amrbd/NTV/playlist.m3u8
+
+http://97.74.103.44:8089/load/atn_bangla/playlist.m3u8
+
+http://97.74.103.44:8089/load/atn_news/playlist.m3u8
+
+http://97.74.103.44:8089/load/somoy_tv/playlist.m3u8
 
 
 
