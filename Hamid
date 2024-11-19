@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- HAMID TV  ----★●•" tvg-logo="http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg" group-title="BANGLADESH",•●★--- HAMID TV ----★●•
 http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg
 http://97.74.103.44:8089/load/btv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="http://smartbox.digital/jwtv1/img/logo/tsports1.jpg" group-title="BANGLADESH",T-SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESH",T-SPORTS
 http://97.74.103.44:8089/amrbd/T-SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="G-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",G-TV
 http://97.74.103.44:8089/amrbd/GTV/playlist.m3u8
@@ -52,8 +52,7 @@ http://xtv.ooo:8080/movie/starmpk/mpk1234/207573.mkv
 !************************* Sports ****************************
 #EXTINF:-1 tvg-id="" tvg-name="*** Hamid TV ***" tvg-logo="http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg" group-title="CRICKET",*** Hamid TV ***
 http://xtv.ooo:8080/starmpk/mpk1234/26014
-#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET",T-SPORTS
-http://xtv.ooo:8080/starmpk/mpk1234/167590
+
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: TNT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="CRICKET",UK: TNT Sport 2 CRICKET
 http://xtv.ooo:8080/starmpk/mpk1234/206566
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
@@ -136,7 +135,7 @@ http://14.102.123.50:5001/live/1762.m3u8
 http://14.102.123.50:5001/live/1839.m3u8
 
 
-!************* Kids Movie 2021-2022 *****************
+<!------------------ Kids Movie 2021-2022 --------------------->
 #EXTINF:-1 tvg-id="" tvg-name="Motu Patlu Vs Dr. Destroyer (2021)  " tvg-logo="https://filmy.link/movies/cover/Motu%20Patlu%20Vs%20Dr%20Destroyer%20(2021)%20DVD%20Rip.jpg" group-title="KIDS (2021-2022)",Motu Patlu Vs Dr. Destroyer (2021)  
 http://xtv.ooo:8080/movie/starmpk/mpk1234/209317.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fukrey Boyzzz: Space Mein Fukrapanti (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rx5hceSb5Ydl1iyoawrDkGo7oFW.jpg" group-title="KIDS (2021-2022)",Fukrey Boyzzz: Space Mein Fukrapanti (2020)
