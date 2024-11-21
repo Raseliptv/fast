@@ -57,6 +57,13 @@ http://xtv.ooo:8080/movie/starmpk/mpk1234/207573.mkv
 #EXTINF:-1 tvg-id="" tvg-name="*** Hamid TV ***" tvg-logo="http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg" group-title="CRICKET",*** Hamid TV ***
 http://xtv.ooo:8080/starmpk/mpk1234/26014
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS FHD" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo-final.png" group-title="CRICKET",A SPORTS FHD
+http://195.26.87.217/live.ts?channelId=12217&uid=3453&deviceMac=00:1A:79:11:10:28
+
+
+
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: TNT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="CRICKET",UK: TNT Sport 2 CRICKET
 http://xtv.ooo:8080/starmpk/mpk1234/206566
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
