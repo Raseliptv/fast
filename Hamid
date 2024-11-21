@@ -58,7 +58,7 @@ http://tv.cloudcdn.me/live.ts?channelId=107&uid=13433&deviceMac=00:1A:79:00:97:A
 #EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESH",SA TV
 http://tv.cloudcdn.me/live.ts?channelId=114&uid=13433&deviceMac=00:1A:79:00:97:A1
 
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESH",CHANNEL 9
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLADESH",CHANNEL 9
 https://iptvcable.netlify.app/Altogether-007/Bangladesh/Channel9.m3u8
 
 
