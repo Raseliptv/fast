@@ -39,6 +39,13 @@ http://97.74.103.44:8089/amrbd/BOISHAKI-TV/playlist.m3u8
 http://103.89.248.18:8082/BIJOY-TV/tracks-v1/index.fmp4.m3u8?token=e2efc1158bca5b68d9a7ef6527470fb619897fbe-6f87473e066c44af5bd43d7c53d2e249-1732185907-1732175107
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/220px-Bangla_TV_Logo.png" group-title="BANGLADESH",BANGLA-TV
+http://tv.cloudcdn.me/live.ts?channelId=44159&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 tvg-id="" tvg-name="BANGLAVISION" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESH",BANGLAVISION
+http://tv.cloudcdn.me/live.ts?channelId=84&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+
 
 !//*************SOUTH INDIAN HINDI Movie************\\
 
@@ -54,74 +61,77 @@ http://xtv.ooo:8080/movie/starmpk/mpk1234/207573.mkv
 
 
 !************************* Sports ****************************
-#EXTINF:-1 tvg-id="" tvg-name="*** Hamid TV ***" tvg-logo="http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg" group-title="CRICKET",*** Hamid TV ***
+#EXTINF:-1 tvg-id="" tvg-name="*** Hamid TV ***" tvg-logo="http://raseliptv.infinityfreeapp.com/gallery_gen/184c7bdd412bc19c4edaef9608ef3839_fill.jpg" group-title="SPORTS",*** Hamid TV ***
 http://xtv.ooo:8080/starmpk/mpk1234/26014
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A SPORTS FHD" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo-final.png" group-title="CRICKET",A SPORTS FHD
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS FHD" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo-final.png" group-title="SPORTS",A SPORTS FHD
 http://195.26.87.217/live.ts?channelId=12217&uid=3453&deviceMac=00:1A:79:11:10:28
 
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://ms.wikipedia.org/wiki/Astro_Cricket#/media/Fail:Astro_Cricket_(2024).png" group-title="SPORTS",Astro Cricket
+http://195.26.87.217/live.ts?channelId=33317&uid=3453&deviceMac=00:1A:79:11:10:28
 
 
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: TNT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="CRICKET",UK: TNT Sport 2 CRICKET
+
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: TNT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="SPORTS",UK: TNT Sport 2 CRICKET
 http://xtv.ooo:8080/starmpk/mpk1234/206566
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PK: PTV SPORTS
 http://xtv.ooo:8080/starmpk/mpk1234/167567
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PK: PTV SPORTS HD
 http://xtv.ooo:8080/starmpk/mpk1234/217968
-#EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",PK | Geo Super HD
+#EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="SPORTS",PK | Geo Super HD
 http://xtv.ooo:8080/starmpk/mpk1234/167568
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="CRICKET",PK: TEN SPORTS
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS",PK: TEN SPORTS
 http://xtv.ooo:8080/starmpk/mpk1234/167569
-#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK: A Sports HD (Server 1)
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
 http://xtv.ooo:8080/starmpk/mpk1234/219689
-#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK: A Sports HD (Server 2)
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 2)
 http://xtv.ooo:8080/starmpk/mpk1234/221417
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | Sony Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CRICKET",IN | Sony Ten 2 HD
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | Sony Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | Sony Ten 2 HD
 http://xtv.ooo:8080/starmpk/mpk1234/167571
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | Sony Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="CRICKET",IN | Sony Ten 3 HD
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | Sony Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | Sony Ten 3 HD
 http://xtv.ooo:8080/starmpk/mpk1234/167572
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 4" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="CRICKET",IN: Sony Ten 4
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 4" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="SPORTS",IN: Sony Ten 4
 http://xtv.ooo:8080/starmpk/mpk1234/167595
-#EXTINF:-1 tvg-id="" tvg-name="CRI: Ten Cricket" tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="CRICKET",CRI: Ten Cricket
+#EXTINF:-1 tvg-id="" tvg-name="CRI: Ten Cricket" tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="SPORTS",CRI: Ten Cricket
 http://xtv.ooo:8080/starmpk/mpk1234/167587
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN: STAR SPORTS 1 Hindi
 http://xtv.ooo:8080/starmpk/mpk1234/167573
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: Star Sports tamil 1
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS",IN: Star Sports tamil 1
 http://xtv.ooo:8080/starmpk/mpk1234/167574
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | Star Sports 1 HD
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
 http://xtv.ooo:8080/starmpk/mpk1234/167575
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET",IN | Star Sports 2 HD
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="SPORTS",IN | Star Sports 2 HD
 http://xtv.ooo:8080/starmpk/mpk1234/167576
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 1
 http://xtv.ooo:8080/starmpk/mpk1234/167578
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 2
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 2
 http://xtv.ooo:8080/starmpk/mpk1234/167579
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="CRICKET",IN | SONY TEN 5
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5
 http://xtv.ooo:8080/starmpk/mpk1234/167580
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET",IN | Astro Cricket HD
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="SPORTS",IN | Astro Cricket HD
 http://xtv.ooo:8080/starmpk/mpk1234/167581
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="CRICKET",SuperSport Cricket
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="SPORTS",SuperSport Cricket
 http://xtv.ooo:8080/starmpk/mpk1234/167592
-#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="CRICKET",AU: FOX CRICKET 501
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",AU: FOX CRICKET 501
 http://xtv.ooo:8080/starmpk/mpk1234/167593
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" group-title="CRICKET",UK: Sky Sports Cricket
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" group-title="SPORTS",UK: Sky Sports Cricket
 http://xtv.ooo:8080/starmpk/mpk1234/167594
-#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="CRICKET",IN | Willow Xtra
+#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="SPORTS",IN | Willow Xtra
 http://xtv.ooo:8080/starmpk/mpk1234/167582
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET",IN: Willow Cricket HD
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="SPORTS",IN: Willow Cricket HD
 http://xtv.ooo:8080/starmpk/mpk1234/167583
 
-#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="CRICKET",IN: EUROSPORT HD
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="SPORTS",IN: EUROSPORT HD
 http://xtv.ooo:8080/starmpk/mpk1234/167585
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="CRICKET",IN: DD Sports
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="SPORTS",IN: DD Sports
 http://xtv.ooo:8080/starmpk/mpk1234/167588
 
-#EXTINF:-1 tvg-id="" tvg-name="PK: MAQ TV CRICKET" tvg-logo="" group-title="CRICKET",PK: MAQ TV CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="PK: MAQ TV CRICKET" tvg-logo="" group-title="SPORTS",PK: MAQ TV CRICKET
 http://xtv.ooo:8080/starmpk/mpk1234/207190
-#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="CRICKET",NZ: SKY Sport Cricket 3
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="SPORTS",NZ: SKY Sport Cricket 3
 http://xtv.ooo:8080/starmpk/mpk1234/217530
 
 
@@ -284,9 +294,14 @@ http://14.102.123.50:5001/live/1954.m3u8
 
 
 
-***************** Indian Bangla*************
+<!-------------------- Indian Bangla--------------->
 #EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bangla" tvg-logo="" group-title="Indian Bangla",IN: Republic Bangla
 http://xtv.ooo:8080/starmpk/mpk1234/355824
+#EXTINF:-1 tvg-id="" tvg-name="ABP ANANDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" group-title="Indian Bangla",ABP ANANDA
+http://tv.cloudcdn.me/live.ts?channelId=40480&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 tvg-id="" tvg-name="AKASH 8" tvg-logo="" group-title="Indian Bangla",AKASH 8
+http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
 
