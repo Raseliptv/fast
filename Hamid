@@ -45,6 +45,15 @@ http://tv.cloudcdn.me/live.ts?channelId=44159&uid=13433&deviceMac=00:1A:79:00:97
 #EXTINF:-1 tvg-id="" tvg-name="BANGLAVISION" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESH",BANGLAVISION
 http://tv.cloudcdn.me/live.ts?channelId=84&uid=13433&deviceMac=00:1A:79:00:97:A1
 
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png" group-title="BANGLADESH",CHANNEL 24
+http://tv.cloudcdn.me/live.ts?channelId=87&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 tvg-id="" tvg-name="DESH TV" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" group-title="BANGLADESH",DESH TV
+http://tv.cloudcdn.me/live.ts?channelId=93&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 BANGLA" tvg-logo="http://iptvidn.com/assets/images/news24.jpg" group-title="BANGLADESH",NEWS 24 BANGLA
+http://tv.cloudcdn.me/live.ts?channelId=107&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
 !//*************SOUTH INDIAN HINDI Movie************\\
@@ -302,6 +311,10 @@ http://tv.cloudcdn.me/live.ts?channelId=40480&uid=13433&deviceMac=00:1A:79:00:97
 
 #EXTINF:-1 tvg-id="" tvg-name="AKASH 8" tvg-logo="" group-title="Indian Bangla",AKASH 8
 http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA" tvg-logo="" group-title="Indian Bangla",COLORS BANGLA
+http://tv.cloudcdn.me/live.ts?channelId=92&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
 
