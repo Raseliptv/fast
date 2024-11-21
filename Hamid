@@ -35,7 +35,7 @@ http://97.74.103.44:8089/amrbd/DBC-NEWS/playlist.m3u8
 http://97.74.103.44:8089/load/Channel%20i/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOISHAKI-TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="BANGLADESH",BOISHAKI-TV
 http://97.74.103.44:8089/amrbd/BOISHAKI-TV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BIJOY-TV" tvg-logo="https://images.app.goo.gl/7SiYo1dvuichBfmc8" group-title="BANGLADESH",BIJOY-TV
+#EXTINF:-1 tvg-id="" tvg-name="BIJOY-TV" tvg-logo="http://iptvidn.com/assets/images/bijoytv.jpg" group-title="BANGLADESH",BIJOY-TV
 http://103.89.248.26:8082/BIJOY-TV/index.fmp4.m3u8?token=f0ae791a72bc6b4c57b133a1d0c906f2eda97f03-e6feb5c3a289edbb6fa601e5aa0962f0-1732184764-1732173964
 
 
