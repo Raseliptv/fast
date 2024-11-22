@@ -61,6 +61,12 @@ http://tv.cloudcdn.me/live.ts?channelId=114&uid=13433&deviceMac=00:1A:79:00:97:A
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLADESH",CHANNEL 9
 https://iptvcable.netlify.app/Altogether-007/Bangladesh/Channel9.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://iptvidn.com/assets/images/mytv.jpg" group-title="BANGLADESH",MY TV
+http://97.74.103.44:8089/load/my_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DIPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLADESH",DIPTO TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
+
 
 !//*************SOUTH INDIAN HINDI Movie************\\
 
@@ -163,9 +169,6 @@ https://4gradgmttgwzdecjq8y5o.wslivehls.com/pull-cdnw.anystream.uk/live/cf46c8b0
 https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/292307530_442636967871724_2428904031870566381_n.png?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=AASaKMePKnUQ7kNvgG7su28&_nc_zt=23&_nc_ht=scontent.fdac27-1.fna&_nc_gid=AsR4UV9U_Re83XGRW7Ut94V&oh=00_AYARw-lVrXx0Xe_sul97H6r3aqda-NIjOdEHr66V5oLgXg&oe=67454DB9
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/Channel_Vision.png",Channel Vision
-http://14.102.123.50:5001/live/1762.m3u8
 
 
 
@@ -304,11 +307,6 @@ http://xtv.ooo:8080/movie/starmpk/mpk1234/221264.mkv
 #EXTINF:-1 group-title="Kids" tvg-logo="http://14.102.123.50:5001/jtvimage/Pogo_Telugu.png",Pogo Telugu
 http://14.102.123.50:5001/live/1883.m3u8
 
-
-
-
-#EXTINF:-1 group-title="News" tvg-logo="http://14.102.123.50:5001/jtvimage/News_Tamil_24x7.png",News Tamil 24x7
-http://14.102.123.50:5001/live/1954.m3u8
 
 
 
