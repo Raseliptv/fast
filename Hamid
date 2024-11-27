@@ -46,7 +46,7 @@ http://tv.cloudcdn.me/live.ts?channelId=44159&uid=13433&deviceMac=00:1A:79:00:97
 http://tv.cloudcdn.me/live.ts?channelId=84&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png" group-title="BANGLADESH",CHANNEL 24
-http://tv.cloudcdn.me/live.ts?channelId=87&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://97.74.103.44:8089/load/channel_24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DESH TV" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" group-title="BANGLADESH",DESH TV
 http://tv.cloudcdn.me/live.ts?channelId=93&uid=13433&deviceMac=00:1A:79:00:97:A1
