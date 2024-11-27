@@ -8,7 +8,7 @@ http://97.74.103.44:8089/amrbd/T-SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="G-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",G-TV
 http://97.74.103.44:8089/amrbd/GTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESH",RTV
-http://103.89.248.26:8082/RTV/index.fmp4.m3u8?token=e546f28dfdd71dcde17a14528d6051a59a652afc-477ab5ba62c38744781a70e9aec7ad4f-1732184476-1732173676
+http://97.74.103.44:8089/load/rtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="71-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="BANGLADESH",71-TV
 http://103.89.248.22:8082/71-TV/index.fmp4.m3u8?token=11f170ed5a4cfa1748d76497fed3ac32f8621d7d-3b03fe064f51e2adc77f3cf066c32158-1732184136-1732173336
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="BANGLADESH",BTV World
