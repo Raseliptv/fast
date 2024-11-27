@@ -68,7 +68,7 @@ http://97.74.103.44:8089/load/my_tv/playlist.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
 
 
-!//*************SOUTH INDIAN HINDI Movie************\\
+<!-----------------SOUTH INDIAN HINDI Movie------------------>
 
 #EXTINF:-1 tvg-id="" tvg-name="Thappu Thanda (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tqCmLfbzYF8ECKsKMHemEdVP7K.jpg" group-title="SOUTH INDIAN HINDI (1990-2020)",Thappu Thanda (2017)
 http://xtv.ooo:8080/movie/starmpk/mpk1234/207570.mkv
