@@ -327,7 +327,7 @@ http://tv.cloudcdn.me/live.ts?channelId=92&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 <!-------------BANGLA MOVIES---------------->
 #EXTINF:1460, Ekta Bhalobasar Golpo
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="Hijibiji (2024) (Bangla)" tvg-logo="https://i.ytimg.com/vi/TMduu6BA8Tw/maxresdefault.jpg" group-title="BANGLA (2024)",hijibiji (2024) (Bangla)
 http://content.discoveryftp.net/secure/_2djvzeQc7ahDr_3FrnxBA/1732956212/Movies/Bangla/2018/Ekta%20Bhalobasar%20Golpo/EBG_2160x1080_MLSBD.CO_8b7bcc42bb2b1af3.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Faram-Gate (2024) (Bangla)" tvg-logo="https://i.ytimg.com/vi/TMduu6BA8Tw/maxresdefault.jpg" group-title="BANGLA (2024)",Faram-Gate (2024) (Bangla)
