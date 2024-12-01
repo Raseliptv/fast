@@ -326,6 +326,9 @@ http://tv.cloudcdn.me/live.ts?channelId=92&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
 <!-------------BANGLA MOVIES---------------->
+#EXTINF:1460, Adventures of Jojo
+#EXTVLCOPT:network-caching=1000
+http://content.discoveryftp.net/secure/ZzvCsTQXUzEg5IOI-2bkkg/1733071785/Movies/Bangla/2018/Adventures%20of%20Jojo/Adventures%20of%20Jojo%20%282018%29%20Bengali%20720p%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
 #EXTINF:1460, Ekta Bhalobasar Golpo
 #EXTINF:-1 tvg-id="" tvg-name="Hijibiji (2024) (Bangla)" tvg-logo="https://i.ytimg.com/vi/TMduu6BA8Tw/maxresdefault.jpg" group-title="BANGLA (2024)",hijibiji (2024) (Bangla)
 http://content.discoveryftp.net/secure/_2djvzeQc7ahDr_3FrnxBA/1732956212/Movies/Bangla/2018/Ekta%20Bhalobasar%20Golpo/EBG_2160x1080_MLSBD.CO_8b7bcc42bb2b1af3.mkv
